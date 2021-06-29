@@ -1,4 +1,4 @@
-neuro_mayakovsky
+Neuro_mayakovsky
 ==============================
 
 Language model GPT-2 for generate text in style of V. V. Maykovsky
@@ -8,6 +8,7 @@ About project
 
 Used Russian GPT-2 from:
 https://github.com/sberbank-ai/ru-gpts
+
 The collected works of V. V. Mayakovsky are used as data
 
 Model
@@ -29,4 +30,5 @@ Examples of generated texts
 ----------------------------
 
 You can to see example in instagram @neuro_mayakovsky:
+
 https://www.instagram.com/neuro_mayakovsky/
