@@ -14,7 +14,7 @@ The collected works of V. V. Mayakovsky are used as data
 Model
 -----------------------------
 
-Copy files of checkpoint from https://drive.google.com/drive/folders/17uvNjAezqwgfWefrHijpx__zznt4kDzY?usp=sharing in your google drive
+Copy files of checkpoint from https://drive.google.com/drive/folders/17uvNjAezqwgfWefrHijpx__zznt4kDzY?usp=sharing to your google drive
 
 Using model for generation text
 ------------------------------
