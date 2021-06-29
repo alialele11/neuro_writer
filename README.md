@@ -29,6 +29,6 @@ See /notebook/train_model.ipynb
 Examples of generated texts
 ----------------------------
 
-You can to see example in instagram @neuro_mayakovsky:
+You can see examples in instagram @neuro_mayakovsky:
 
 https://www.instagram.com/neuro_mayakovsky/
