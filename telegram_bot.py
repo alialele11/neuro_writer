@@ -3,7 +3,7 @@ import random
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 import telebot
-bot = telebot.TeleBot('1808114627:AAHQSFC0B51d5sVrqJ-cuktoRrUC90PZPyQ')
+bot = telebot.TeleBot('')
 
 tok = GPT2Tokenizer.from_pretrained("/home/alina/Загрузки/checkpoint-5500")
 model = GPT2LMHeadModel.from_pretrained("/home/alina/Загрузки/checkpoint-5500")
